@@ -1,6 +1,6 @@
 <div align="center">
 
-# 常传勇 / Chuanyong Chang
+# Chuanyong Chang
 
 ### 机器人系统｜嵌入式开发｜ROS2｜计算机视觉
 
