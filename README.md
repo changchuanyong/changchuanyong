@@ -58,3 +58,6 @@ Built and tuned a CoreXY printer with Klipper, focusing on motion tuning and har
 
 - GitHub: [@changchuanyong](https://github.com/changchuanyong)
 - Email: your_email_here
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=changchuanyong&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changchuanyong&layout=compact)
