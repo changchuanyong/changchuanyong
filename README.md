@@ -1,43 +1,60 @@
-# 常传勇 / Chuanyong Chang
+# Chuanyong Chang
 
-硕士研究生｜哈尔滨理工大学｜机械工程  
-研究方向：机器人系统、嵌入式开发、视觉引导与力觉协同控制
+Master's student in Mechanical Engineering at Harbin University of Science and Technology  
+Focused on Robotics, Embedded Systems, ROS2, and Computer Vision
+
+---
 
 ## About Me
-- 关注方向：机器人控制、嵌入式 Linux、ROS2、计算机视觉
-- 目前主要做：机器人充电接口视觉引导对准与位姿估计
-- 希望从事：嵌入式、机器人系统、视觉感知相关岗位
+
+- Research direction: force–vision collaborative robotic insertion
+- Interested in embedded software, robot control, perception, and system integration
+- Looking for internship opportunities in robotics / embedded / perception
+
+---
 
 ## Tech Stack
-- **Languages:** C / C++ / Python
-- **Embedded:** STM32 / FreeRTOS / CAN / UART / RS485
-- **Robotics:** ROS2 / Linux / Navigation2 / SLAM
-- **Vision:** OpenCV / YOLOv8 / PnP / IPPE
-- **Tools:** Git / CMake / VS Code / Keil / STM32CubeMX / Ubuntu
 
-## Projects
+**Languages**  
+C / C++ / Python
 
-### 力觉-视觉协同引导的机器人充电接口对准
-- 面向新能源汽车充电接口自动对接场景
-- 完成目标检测、ROI提取、孔位特征定位与位姿求解
-- 支持后续与机器人插装控制模块集成
+**Embedded & Robotics**  
+STM32 / FreeRTOS / ROS2 / Linux / CAN / UART / RS485
 
-### 仓储物流 AMR 小车系统
-- 基于树莓派4B + STM32F407 构建上下位机架构
-- 实现 ROS2 功能部署、CAN 通信、自定义协议、状态监测
-- 完成底盘联调、建图定位与导航测试
+**Vision & Algorithms**  
+OpenCV / YOLOv8 / Pose Estimation / PnP / IPPE
 
-### ROBOCON 机器人底盘电控系统
-- 基于 STM32F4 + FreeRTOS 搭建实时控制架构
-- 完成多电机控制、PID 闭环、传感器融合与整机联调
-- 支撑比赛场景下快速移动、稳定对准与动作执行
+**Tools**  
+Git / CMake / VS Code / Keil / STM32CubeMX / Ubuntu
+
+---
+
+## Featured Projects
+
+### EV Charging Interface Alignment
+Vision-guided charging port localization and initial pose estimation for robotic insertion.
+
+### Warehouse AMR Robot
+Upper-lower architecture based on Raspberry Pi 4B and STM32F407, with ROS2 deployment, CAN communication, and system integration.
+
+### ROBOCON Competition Robot
+Embedded control system based on STM32F4 and FreeRTOS, including multi-motor control, PID loops, and sensor fusion.
+
+### CoreXY 3D Printer
+Built and tuned a CoreXY printer with Klipper, focusing on motion tuning and hardware debugging.
+
+---
 
 ## Research Interests
-- Force-Vision Collaborative Guidance
-- Robotic Insertion / Assembly
-- Embedded Control Systems
-- Robot Perception and Localization
+
+- Robotic insertion and assembly
+- Force–vision collaborative control
+- Embedded control systems
+- Robot perception and localization
+
+---
 
 ## Contact
-- GitHub: https://github.com/changchuanyong
+
+- GitHub: [@changchuanyong](https://github.com/changchuanyong)
 - Email: your_email_here
