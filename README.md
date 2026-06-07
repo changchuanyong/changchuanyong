@@ -61,16 +61,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=changchuanyong&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=changchuanyong&layout=compact&hide_border=true&theme=default)
-
-</div>
-
 ---
 
 ## Contact
