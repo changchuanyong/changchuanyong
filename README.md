@@ -49,17 +49,11 @@
 
 电动汽车充电口视觉检测与位姿估计。YOLO 充电口检测 → 自适应 ROI 后处理 → Canny/Hybrid 边缘提取 → 孔位轮廓筛选与布局先验 → PnP 位姿求解。
 
-<img src="https://raw.githubusercontent.com/changchuanyong/robot-ev-charging/main/docs/assets/readme/roi_detection.jpg" width="400" alt="ROI detection"/>
-
 79 张样张评估：29 OK / 49 Warn / 1 Fail，中位数重投影 17.0 px，9 孔全检出率 71%。
 
 ### [ROS2 Mobile Robot](https://github.com/changchuanyong/ros2-mobile-robot)
 
 基于 ROS2 Jazzy 的移动机器人仿真与可视化项目。URDF / Xacro 模型、Gazebo 世界、激光雷达、IMU、差速驱动、RVIZ 可视化、SLAM Toolbox 2D 建图、FAST-LIO 3D 建图、Navigation2 自主导航。
-
-### 仓储物流 AMR 小车系统
-
-基于树莓派 4B + STM32F407 构建上下位机架构，完成 ROS2 功能部署、CAN 通信、自定义协议设计、状态监测、底盘联调与导航测试。
 
 ### ROBOCON 机器人底盘电控系统
 
